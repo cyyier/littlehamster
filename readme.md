@@ -67,7 +67,8 @@
 ![image](https://github.com/cyyier/littlehamster/assets/52512369/b0d4a586-a47f-4dc3-b907-f16b66efa2ff)
 ![image](https://github.com/cyyier/littlehamster/assets/52512369/07dfb911-20bb-4795-892f-678a8c9a7c6e)
 
-
+## 
+著作権の関係により、一部の画像、フォント及び音声ファイルを削除しました。
 
 
 
