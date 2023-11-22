@@ -59,10 +59,9 @@
           return self._id
       ...
   ```
-##　スクリーンショット
+## スクリーンショット
 ![image](https://github.com/cyyier/littlehamster/assets/52512369/72245d57-0aad-4a01-a555-56d79e789347)
 ![image](https://github.com/cyyier/littlehamster/assets/52512369/0bbd20ee-d27b-4f9d-8e0a-d2ba6a334d92)
-![image](https://github.com/cyyier/littlehamster/assets/52512369/ca871c66-28aa-412c-88a7-135cf352fb93)
 ![image](https://github.com/cyyier/littlehamster/assets/52512369/2ccda898-597c-4cb6-a8ad-49f64da62125)
 ![image](https://github.com/cyyier/littlehamster/assets/52512369/b6c87e29-d6e9-4cf3-977b-d0ea9f46c4d2)
 ![image](https://github.com/cyyier/littlehamster/assets/52512369/b0d4a586-a47f-4dc3-b907-f16b66efa2ff)
